@@ -1,2 +1,3 @@
 C:\Users\dvonj\source\repos\SDL2\x64\Debug\SDL2.exe
 C:\Users\dvonj\source\repos\SDL2\x64\Debug\SDL2.pdb
+D:\VisualStudioProjects\DrewEngine\x64\Debug\SDL2.exe

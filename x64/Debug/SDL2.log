@@ -1,2 +1,7 @@
-﻿  Map.cpp
-  SDL2.vcxproj -> C:\Users\dvonj\source\repos\SDL2\x64\Debug\SDL2.exe
+﻿  Game.cpp
+  GameObject.cpp
+  main.cpp
+  Map.cpp
+  TextureManager.cpp
+  Generating Code...
+  SDL2.vcxproj -> D:\VisualStudioProjects\DrewEngine\x64\Debug\SDL2.exe
